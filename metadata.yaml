@@ -1,0 +1,30 @@
+_repo: Voyage-du-Prince-Fan-Federin-dans-la-romancie_13804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bougeant, G.-H. (Guillaume-Hyacinthe)
+    alias: Bougeant, Guillaume Hyacinthe
+    birthdate: 1690
+    deathdate: 1743
+    gutenberg_agent_id: '5228'
+    url: http://www.gutenberg.org/2009/agents/5228
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume-Hyacinthe_Bougeant
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13804'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances'
+- !lcc 'PQ'
+- !lcsh 'Satire'
+title: Voyage du Prince Fan-Federin dans la romancie
+url: http://www.gutenberg.org/ebooks/13804
